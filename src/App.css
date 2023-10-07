@@ -1,0 +1,33 @@
+.app-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.price-input {
+  margin-bottom: 20px;
+}
+
+.custom-tooltip-box {
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.matching-info {
+  margin-top: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+.ResponsiveContainer {
+  margin-top: 20px;
+}
